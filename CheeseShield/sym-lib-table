@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name TomsPartsLibrary)(type Legacy)(uri /home/tom/workspace/kicad-library/TomsPartsLibrary.lib)(options "")(descr ""))
+)
